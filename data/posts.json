@@ -1,0 +1,596 @@
+[
+  {
+    "_id": {
+      "$oid": "636a594f17964f871d2a4113"
+    },
+    "title": "Grid child 2 - post 1",
+    "content": "The rules added with the above method will (if you use the !important suffix) override other previously set styling. If you are not using the suffix then make sure to take concepts like. specificity' into account.",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "637b38b804b63ce0134e6718"
+    },
+    "user": {
+      "$oid": "635abe9c16c69f425b56bd35"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "slug": "grid-child-2-post-1"
+  },
+  {
+    "_id": {
+      "$oid": "636a596da57e6ff499a179d2"
+    },
+    "title": "Grid child 2 - post 2",
+    "content": "post content to 1",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "637b38b804b63ce0134e6718"
+    },
+    "user": {
+      "$oid": "635abe9c16c69f425b56bd35"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "slug": "grid-child-2-post-2"
+  },
+  {
+    "_id": {
+      "$oid": "636a5977d7ed8992968bd2a0"
+    },
+    "title": "Grid child 2 - post 3",
+    "content": "post content to 2",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "637b38b804b63ce0134e6718"
+    },
+    "user": {
+      "$oid": "635abe9c16c69f425b56bd35"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "slug": "grid-child-2-post-3"
+  },
+  {
+    "_id": {
+      "$oid": "636a597d3b1fe9922335f867"
+    },
+    "title": "Grid child 2 - child 1 - post 1",
+    "content": "Code implementation for something.... Ahhaha!!",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "637b39573097c8ba477e5b37"
+    },
+    "user": {
+      "$oid": "635abe9c16c69f425b56bd35"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "slug": "grid-child-2-child-1-post-1"
+  },
+  {
+    "_id": {
+      "$oid": "636a598260c3b11b76c57343"
+    },
+    "title": "Grid child 2 - child 1 - post 2",
+    "content": "Code implementation is very much difficult!!",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "637b39573097c8ba477e5b37"
+    },
+    "user": {
+      "$oid": "635abe9c16c69f425b56bd35"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "slug": "grid-child-2-child-1-post-2"
+  },
+  {
+    "_id": {
+      "$oid": "636a5986382b419aa46b96b2"
+    },
+    "title": "Pseudo Code implementation",
+    "content": "Pseudo Code..... content",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "636a550fdea6b363b9b0f47e"
+    },
+    "user": {
+      "$oid": "635abe9c16c69f425b56bd35"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669225636232"
+      }
+    },
+    "slug": "pseudo-code-implementation"
+  },
+  {
+    "_id": {
+      "$oid": "63823149e9bdba678553a357"
+    },
+    "title": "State Vs. Props",
+    "content": "&lt;h1 class=\"h1\" style=\"line-height: 1.3em; margin-top: 5px; font-weight: 400; font-family: erdana, helvetica, arial, sans-serif; font-size: 29px; color: rgb(97, 11, 56); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">State Vs. Prop&lt;/h1>&lt;h2 class=\"h2\" style=\"line-height: 1.3em; font-family: erdana, helvetica, arial, sans-serif; color: rgb(97, 11, 56); font-weight: 400; font-size: 25px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">State&lt;/h2>&lt;p style=\"color: rgb(51, 51, 51); font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">The state is an updatable structure that is used to contain data or information about the component and can change over time. The change in state can happen as a response to user action or system event. It is the heart of the react component which determines the behaviour of the component and how it will render. A state must be kept as simple as possible. It represents the component's local state or information. It can only be accessed or modified inside the component or by the component directly.&lt;/p>&lt;h2 class=\"h2\" style=\"line-height: 1.3em; font-family: erdana, helvetica, arial, sans-serif; color: rgb(97, 11, 56); font-weight: 400; font-size: 25px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Props&lt;/h2>&lt;p style=\"color: rgb(51, 51, 51); font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Props are read-only components. It is an object which stores the value of attributes of a tag and works similarly to the HTML attributes. It allows passing data from one component to another components. It is similar to function arguments and can be passed to the component the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component.&lt;/p>&lt;h2 class=\"h2\" style=\"line-height: 1.3em; font-family: erdana, helvetica, arial, sans-serif; color: rgb(97, 11, 56); font-weight: 400; font-size: 25px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Difference between State and Props&lt;/h2>&lt;table class=\"alt\" style=\"width: 848.75px; border: 1px solid rgb(199, 204, 190); text-align: left; display: table; border-collapse: collapse; border-spacing: 0px; color: rgb(51, 51, 51); font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&lt;tbody style=\"display: table-row-group;\">&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">SN&lt;/th>&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">Props&lt;/th>&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">State&lt;/th>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">1.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Props are read-only.&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">State changes can be asynchronous.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">2.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Props are immutable.&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">The state is mutable.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">3.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Props allow you to pass data from one component to other components as an argument.&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">The state holds information about the components.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">4.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Props can be accessed by the child component.&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">The state cannot be accessed by child components.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">5.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Props are used to communicate between components.&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">States can be used for rendering dynamic changes with the component.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">6.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">The stateless components can have Props.&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Stateless components cannot have State.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">7.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Props make components reusable.&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">The state cannot make components reusable.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">8.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Props are external and controlled by whatever renders the component.&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">The State is internal and controlled by the React Component itself.&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;p style=\"color: rgb(51, 51, 51); font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">The below table will guide you about the changing in props and state.&lt;/p>&lt;table class=\"alt\" style=\"width: 848.75px; border: 1px solid rgb(199, 204, 190); text-align: left; display: table; border-collapse: collapse; border-spacing: 0px; color: rgb(51, 51, 51); font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&lt;tbody style=\"display: table-row-group;\">&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">SN&lt;/th>&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">Condition&lt;/th>&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">Props&lt;/th>&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">State&lt;/th>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">1.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Can get the initial value from the parent Component?&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">2.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Can be changed by the parent Component?&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">No&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">3.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Can set default values inside the Component?&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">4.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Can change the inside Component?&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">No&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">5.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Can set the initial value for child Components?&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">6.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Can change in child Components?&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Yes&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">No&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;h4 class=\"n\" style=\"font-size: 15px; font-weight: 500; margin-left: 0px; padding: 20px 15px 20px 40px; font-family: sans-serif; border-left: 3px solid orange; background: url(&quot;images/note.png&quot;) 4px 22px no-repeat rgb(250, 235, 215); border-radius: 3px; color: rgb(51, 51, 51); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Note: The component State and Props share some common similarities. They are given in the below table.&lt;/h4>&lt;table class=\"alt\" style=\"width: 848.75px; border: 1px solid rgb(199, 204, 190); text-align: left; display: table; border-collapse: collapse; border-spacing: 0px; color: rgb(51, 51, 51); font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&lt;tbody style=\"display: table-row-group;\">&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">SN&lt;/th>&lt;th style=\"color: rgb(0, 0, 0); background-color: rgb(199, 204, 190); font-size: 17px; font-family: &quot;times new roman&quot;; padding: 12px; vertical-align: top; text-align: left;\">State and Props&lt;/th>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">1.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Both are plain JS objects.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(239, 241, 235);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">2.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Both can contain default values.&lt;/td>&lt;/tr>&lt;tr style=\"display: table-row; vertical-align: inherit; border-color: inherit; background-color: rgb(255, 255, 255);\">&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">&lt;strong style=\"font-family: inter-bold, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 700;\">3.&lt;/strong>&lt;/td>&lt;td style=\"border: 1px solid rgb(199, 204, 190); text-align: justify; padding: 8px; vertical-align: top; font-size: 16px; font-family: inter-regular, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.7; margin-left: 0px; display: table-cell;\">Both are read-only when they are used by this.&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "63821987b953459ae23e6865"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669476681426"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669476681426"
+      }
+    },
+    "slug": "state-vs.-props"
+  },
+  {
+    "_id": {
+      "$oid": "6383b4ac115e99afce9ff5c6"
+    },
+    "title": "State Vs. Props",
+    "content": "{\"blocks\":[{\"key\":\"e8c94\",\"text\":\"State Vs. Props\",\"type\":\"header-one\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":15,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":15,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":15,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":15,\"style\":\"color-rgb(97,11,56)\"},{\"offset\":0,\"length\":15,\"style\":\"fontsize-29\"},{\"offset\":0,\"length\":15,\"style\":\"fontfamily-erdana, helvetica, arial, sans-serif\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"justify\"}},{\"key\":\"6te1m\",\"text\":\"State\",\"type\":\"header-one\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":5,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":5,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":5,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":5,\"style\":\"color-rgb(97,11,56)\"},{\"offset\":0,\"length\":5,\"style\":\"fontsize-25\"},{\"offset\":0,\"length\":5,\"style\":\"fontfamily-erdana, helvetica, arial, sans-serif\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"ntv4\",\"text\":\"The state is an updatable structure that is used to contain data or information about the component and can change over time. The change in state can happen as a response to user action or system event. It is the heart of the react component which determines the behavior of the component and how it will render. A state must be kept as simple as possible. It represents the component's local state or information. It can only be accessed or modified inside the component or by the component directly.\",\"type\":\"header-one\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":501,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":501,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":501,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":501,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":501,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":501,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"5dgek\",\"text\":\"Props\",\"type\":\"header-one\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":5,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":5,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":5,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":5,\"style\":\"color-rgb(97,11,56)\"},{\"offset\":0,\"length\":5,\"style\":\"fontsize-25\"},{\"offset\":0,\"length\":5,\"style\":\"fontfamily-erdana, helvetica, arial, sans-serif\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"a1q8k\",\"text\":\"Props are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It allows passing data from one component to other components. It is similar to function arguments and can be passed to the component the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":393,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":393,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":393,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":393,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":393,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":393,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"d1c42\",\"text\":\"Difference between State and PropsSNPropsState1.Props are read-only.State changes can be asynchronous.2.Props are immutable.State is mutable.3.Props allow you to pass data from one component to other components as an argument.State holds information about the components.4.Props can be accessed by the child component.State cannot be accessed by child components.5.Props are used to communicate between components.States can be used for rendering dynamic changes with the component.6.Stateless component can have Props.Stateless components cannot have State.7.Props make components reusable.State cannot make components reusable.8.Props are external and controlled by whatever renders the component.The State is internal and controlled by the React Component itself.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":766,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":34,\"style\":\"fontsize-25\"},{\"offset\":0,\"length\":34,\"style\":\"fontfamily-erdana, helvetica, arial, sans-serif\"},{\"offset\":46,\"length\":720,\"style\":\"fontsize-16\"},{\"offset\":34,\"length\":12,\"style\":\"fontsize-17\"},{\"offset\":46,\"length\":2,\"style\":\"BOLD\"},{\"offset\":102,\"length\":2,\"style\":\"BOLD\"},{\"offset\":141,\"length\":2,\"style\":\"BOLD\"},{\"offset\":271,\"length\":2,\"style\":\"BOLD\"},{\"offset\":363,\"length\":2,\"style\":\"BOLD\"},{\"offset\":482,\"length\":2,\"style\":\"BOLD\"},{\"offset\":558,\"length\":2,\"style\":\"BOLD\"},{\"offset\":629,\"length\":2,\"style\":\"BOLD\"},{\"offset\":0,\"length\":34,\"style\":\"color-rgb(97,11,56)\"},{\"offset\":0,\"length\":766,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"},{\"offset\":46,\"length\":720,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":766,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":34,\"length\":12,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":34,\"length\":12,\"style\":\"bgcolor-rgb(199,204,190)\"},{\"offset\":34,\"length\":732,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"7et6n\",\"text\":\"The below table will guide you about the changing in props and state.SNConditionPropsState1.Can get initial value from parent Component?YesYes2.Can be changed by parent Component?YesNo3.Can set default values inside Component?YesYes4.Can change inside Component?NoYes5.Can set initial value for child Components?YesYes6.Can change in child Components?YesNo\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":69,\"length\":21,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":356,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":356,\"style\":\"fontsize-16\"},{\"offset\":69,\"length\":21,\"style\":\"fontsize-17\"},{\"offset\":90,\"length\":2,\"style\":\"BOLD\"},{\"offset\":142,\"length\":2,\"style\":\"BOLD\"},{\"offset\":184,\"length\":2,\"style\":\"BOLD\"},{\"offset\":232,\"length\":2,\"style\":\"BOLD\"},{\"offset\":267,\"length\":2,\"style\":\"BOLD\"},{\"offset\":318,\"length\":2,\"style\":\"BOLD\"},{\"offset\":0,\"length\":356,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":69,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":90,\"length\":266,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":356,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":356,\"style\":\"bgcolor-rgb(255,255,255)\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"dja1h\",\"text\":\"Note: The component State and Props share some common similarities. They are given in the below table.SNState and Props1.Both are plain JS object.2.Both can contain default values.3.Both are read-only when they are using by this. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":102,\"style\":\"bgcolor-rgb(250,235,215)\"},{\"offset\":0,\"length\":102,\"style\":\"fontsize-15\"},{\"offset\":0,\"length\":229,\"style\":\"fontsize-16\"},{\"offset\":102,\"length\":17,\"style\":\"fontsize-17\"},{\"offset\":119,\"length\":2,\"style\":\"BOLD\"},{\"offset\":146,\"length\":2,\"style\":\"BOLD\"},{\"offset\":180,\"length\":2,\"style\":\"BOLD\"},{\"offset\":0,\"length\":229,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":102,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":119,\"length\":110,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":229,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":146,\"length\":34,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":0,\"length\":229,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":102,\"length\":17,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":102,\"length\":17,\"style\":\"bgcolor-rgb(199,204,190)\"},{\"offset\":0,\"length\":102,\"style\":\"fontfamily-sans-serif\"},{\"offset\":102,\"length\":127,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"50n6d\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}},{\"key\":\"286qh\",\"text\":\"Copyright by TheNinzaDev.in \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":27,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":27,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":27,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":27,\"style\":\"fontfamily-Roboto, Helvetica, Arial, sans-serif\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}}],\"entityMap\":{}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "63821987b953459ae23e6865"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669575852318"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669581670285"
+      }
+    },
+    "slug": "state-vs.-props"
+  },
+  {
+    "_id": {
+      "$oid": "6383d4d0115e99afcea0017e"
+    },
+    "title": "State",
+    "content": "{\"blocks\":[{\"key\":\"7lbjt\",\"text\":\"State\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":5,\"style\":\"color-rgb(97,11,56)\"},{\"offset\":0,\"length\":5,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":5,\"style\":\"fontsize-25\"},{\"offset\":0,\"length\":5,\"style\":\"fontfamily-erdana, helvetica, arial, sans-serif\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"justify\"}},{\"key\":\"379kj\",\"text\":\"The state is an updatable structure that is used to contain data or information about the component and can change over time. The change in state can happen as a response to user action or system event. It is the heart of the react component which determines the behavior of the component and how it will render. A state must be kept as simple as possible. It represents the component's local state or information. It can only be accessed or modified inside the component or by the component directly. \",\"type\":\"header-two\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":501,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":501,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":501,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":501,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "637e5d0ff21d7280fb15cbee"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669584080768"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669584080768"
+      }
+    },
+    "slug": "state"
+  },
+  {
+    "_id": {
+      "$oid": "6383d56b115e99afcea001da"
+    },
+    "title": "Props",
+    "content": "{\"blocks\":[{\"key\":\"5lqkm\",\"text\":\"Props\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":5,\"style\":\"color-rgb(97,11,56)\"},{\"offset\":0,\"length\":5,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":5,\"style\":\"fontfamily-erdana, helvetica, arial, sans-serif\"},{\"offset\":0,\"length\":5,\"style\":\"fontsize-18\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"justify\"}},{\"key\":\"dergk\",\"text\":\"Props are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It allows passing data from one component to other components. It is similar to function arguments and can be passed to the component the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component. \",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":393,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":393,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":393,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":393,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "637e5d0ff21d7280fb15cbee"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669584235876"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669584235876"
+      }
+    },
+    "slug": "props"
+  },
+  {
+    "_id": {
+      "$oid": "6383d5d9115e99afcea00200"
+    },
+    "title": "Intro",
+    "content": "{\"blocks\":[{\"key\":\"b15e9\",\"text\":\"Intro to useEffect\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "6382271db5ce695181d97f56"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669584345960"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669584345960"
+      }
+    },
+    "slug": "intro"
+  },
+  {
+    "_id": {
+      "$oid": "6383d602115e99afcea00203"
+    },
+    "title": "psuedo code - of useEffect",
+    "content": "{\"blocks\":[{\"key\":\"e5ag7\",\"text\":\"psuedo code\",\"type\":\"header-two\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":11,\"style\":\"color-rgb(97,11,56)\"},{\"offset\":0,\"length\":11,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":11,\"style\":\"fontsize-25\"},{\"offset\":0,\"length\":11,\"style\":\"fontfamily-erdana, helvetica, arial, sans-serif\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"2rmdg\",\"text\":\"Props are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It allows passing data from one component to other components. It is similar to function arguments and can be passed to the component the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":393,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":393,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":393,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":393,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"justify\"}}],\"entityMap\":{}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "6382271db5ce695181d97f56"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669584386981"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669585148117"
+      }
+    },
+    "slug": "psuedo-code"
+  },
+  {
+    "_id": {
+      "$oid": "638476e9fabb486b96da8992"
+    },
+    "title": "Difference between State and Props",
+    "content": "{\"blocks\":[{\"key\":\"28cq0\",\"text\":\"Difference between State and Props\\nSNPropsState1.Props are read-only. State changes can be asynchronous.2.Props are immutable. State is mutable.3.Props allow you to pass data from one component to other components as an argument. State holds information about the components.4.Props can be accessed by the child component. State cannot be accessed by child components.5.Props are used to communicate between components.States can be used for rendering dynamic changes with the component.6.Stateless component can have Props. Stateless components cannot have State.7.Props make components reusable.State cannot make components reusable.8.Props are external and controlled by whatever renders the component. The State is internal and controlled by the React Component itself.\\nThe below table will guide you about the changing in props and state.SNConditionPropsState1. Can get initial value from parent Component?YesYes2.Can be changed by parent Component?YesNo3.Can set default values inside Component?YesYes4.Can change inside Component?NoYes5.Can set initial value for child Components?YesYes6.Can change in child Components?YesNo \\n\\nCode\",\"type\":\"header-two\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":1131,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":35,\"length\":12,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":843,\"length\":21,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":35,\"length\":12,\"style\":\"bgcolor-rgb(199,204,190)\"},{\"offset\":843,\"length\":21,\"style\":\"bgcolor-rgb(199,204,190)\"},{\"offset\":35,\"length\":1096,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":35,\"length\":12,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":104,\"length\":40,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":275,\"length\":93,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":487,\"length\":77,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":635,\"length\":139,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":843,\"length\":21,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":917,\"length\":42,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":1007,\"length\":35,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":1093,\"length\":38,\"style\":\"bgcolor-rgb(239,241,235)\"},{\"offset\":0,\"length\":35,\"style\":\"fontsize-25\"},{\"offset\":0,\"length\":35,\"style\":\"fontfamily-erdana, helvetica, arial, sans-serif\"},{\"offset\":35,\"length\":1096,\"style\":\"fontsize-16\"},{\"offset\":35,\"length\":12,\"style\":\"fontsize-17\"},{\"offset\":843,\"length\":21,\"style\":\"fontsize-17\"},{\"offset\":47,\"length\":2,\"style\":\"BOLD\"},{\"offset\":104,\"length\":2,\"style\":\"BOLD\"},{\"offset\":144,\"length\":2,\"style\":\"BOLD\"},{\"offset\":275,\"length\":2,\"style\":\"BOLD\"},{\"offset\":368,\"length\":2,\"style\":\"BOLD\"},{\"offset\":487,\"length\":2,\"style\":\"BOLD\"},{\"offset\":564,\"length\":2,\"style\":\"BOLD\"},{\"offset\":635,\"length\":2,\"style\":\"BOLD\"},{\"offset\":864,\"length\":3,\"style\":\"BOLD\"},{\"offset\":917,\"length\":2,\"style\":\"BOLD\"},{\"offset\":959,\"length\":2,\"style\":\"BOLD\"},{\"offset\":1007,\"length\":2,\"style\":\"BOLD\"},{\"offset\":1042,\"length\":2,\"style\":\"BOLD\"},{\"offset\":1093,\"length\":2,\"style\":\"BOLD\"},{\"offset\":0,\"length\":35,\"style\":\"color-rgb(97,11,56)\"},{\"offset\":35,\"length\":1096,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":35,\"length\":12,\"style\":\"fontfamily-times new roman\"},{\"offset\":843,\"length\":21,\"style\":\"fontfamily-times new roman\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"justify\"}},{\"key\":\"dbaqb\",\"text\":\"React Fullscreen \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":16,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":16,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":16,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"3ugrn\",\"text\":\"A React component that sets its children to fullscreen using the Fullscreen API, normalized using fscreen. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":97,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":105,\"length\":1,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":97,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":98,\"length\":8,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":97,\"style\":\"fontsize-16\"},{\"offset\":98,\"length\":8,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":97,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":98,\"length\":8,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":98,\"length\":7,\"style\":\"color-rgb(0,123,255)\"}],\"entityRanges\":[{\"offset\":98,\"length\":7,\"key\":0}],\"data\":{}},{\"key\":\"f523r\",\"text\":\"Usage\",\"type\":\"header-two\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":5,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":5,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":5,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"2426e\",\"text\":\"* Install.\",\"type\":\"header-three\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":10,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":10,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":10,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"8fc1i\",\"text\":\"yarn add react-full-screen\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":26,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":26,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":26,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":26,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":0,\"length\":26,\"style\":\"fontsize-1em\"},{\"offset\":0,\"length\":26,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"ajklg\",\"text\":\"* Import component and hook\",\"type\":\"header-three\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":27,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":27,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":27,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"ceg2m\",\"text\":\"import { FullScreen, useFullScreenHandle } from \\\"react-full-screen\\\";\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":6,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":7,\"length\":1,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":9,\"length\":11,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":21,\"length\":19,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":41,\"length\":1,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":43,\"length\":4,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":48,\"length\":20,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":6,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":7,\"length\":1,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":9,\"length\":11,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":21,\"length\":19,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":41,\"length\":1,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":43,\"length\":4,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":48,\"length\":20,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":6,\"style\":\"fontsize-16\"},{\"offset\":7,\"length\":1,\"style\":\"fontsize-16\"},{\"offset\":9,\"length\":11,\"style\":\"fontsize-16\"},{\"offset\":21,\"length\":19,\"style\":\"fontsize-16\"},{\"offset\":41,\"length\":1,\"style\":\"fontsize-16\"},{\"offset\":43,\"length\":4,\"style\":\"fontsize-16\"},{\"offset\":48,\"length\":20,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":6,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":7,\"length\":1,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":9,\"length\":11,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":21,\"length\":19,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":41,\"length\":1,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":43,\"length\":4,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":48,\"length\":20,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":0,\"length\":6,\"style\":\"fontsize-1em\"},{\"offset\":7,\"length\":1,\"style\":\"fontsize-1em\"},{\"offset\":9,\"length\":11,\"style\":\"fontsize-1em\"},{\"offset\":21,\"length\":19,\"style\":\"fontsize-1em\"},{\"offset\":41,\"length\":1,\"style\":\"fontsize-1em\"},{\"offset\":43,\"length\":4,\"style\":\"fontsize-1em\"},{\"offset\":48,\"length\":20,\"style\":\"fontsize-1em\"},{\"offset\":0,\"length\":6,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":7,\"length\":1,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":9,\"length\":11,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":21,\"length\":19,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":41,\"length\":1,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":43,\"length\":4,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":48,\"length\":20,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"9jf94\",\"text\":\"* Setup and render.\",\"type\":\"header-three\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":19,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":19,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":19,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"dig0b\",\"text\":\"You must use one handle per full screen element. It is not possible to start in Fullscreen. Fullscreen must be enabled from a user action such as onClick. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":3,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":4,\"length\":4,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":9,\"length\":136,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":146,\"length\":8,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":3,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":4,\"length\":4,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":9,\"length\":136,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":146,\"length\":8,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":3,\"style\":\"fontsize-16\"},{\"offset\":4,\"length\":4,\"style\":\"fontsize-16\"},{\"offset\":9,\"length\":136,\"style\":\"fontsize-16\"},{\"offset\":146,\"length\":8,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":3,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":4,\"length\":4,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":9,\"length\":136,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":146,\"length\":8,\"style\":\"fontfamily--apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\"},{\"offset\":4,\"length\":4,\"style\":\"BOLD\"},{\"offset\":146,\"length\":7,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"debcp\",\"text\":\"import React, {useCallback} from 'react';\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":41,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"fk582\",\"text\":\"import { FullScreen, useFullScreenHandle } from \\\"react-full-screen\\\";\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":68,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"egrb7\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8df6c\",\"text\":\"function App() {\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":8,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":9,\"length\":5,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":15,\"length\":1,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":8,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":9,\"length\":5,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":15,\"length\":1,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":8,\"style\":\"fontsize-16\"},{\"offset\":9,\"length\":5,\"style\":\"fontsize-16\"},{\"offset\":15,\"length\":1,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":8,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":9,\"length\":5,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":15,\"length\":1,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":0,\"length\":16,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"11k7i\",\"text\":\" const handle = useFullScreenHandle();\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":38,\"style\":\"CODE\"},{\"offset\":1,\"length\":5,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":7,\"length\":6,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":14,\"length\":1,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":16,\"length\":22,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":5,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":7,\"length\":6,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":14,\"length\":1,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":16,\"length\":22,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":5,\"style\":\"fontsize-16\"},{\"offset\":7,\"length\":6,\"style\":\"fontsize-16\"},{\"offset\":14,\"length\":1,\"style\":\"fontsize-16\"},{\"offset\":16,\"length\":22,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":5,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":7,\"length\":6,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":14,\"length\":1,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":16,\"length\":22,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"32prv\",\"text\":\" \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":1,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"3uuas\",\"text\":\" return (\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":9,\"style\":\"CODE\"},{\"offset\":1,\"length\":6,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":8,\"length\":1,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":6,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":8,\"length\":1,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":6,\"style\":\"fontsize-16\"},{\"offset\":8,\"length\":1,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":6,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":8,\"length\":1,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"26sk2\",\"text\":\" &lt;div>\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":6,\"style\":\"CODE\"},{\"offset\":1,\"length\":5,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":5,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":5,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":5,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"cudlk\",\"text\":\" \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":32,\"style\":\"CODE\"},{\"offset\":1,\"length\":7,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":9,\"length\":23,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":7,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":9,\"length\":23,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":7,\"style\":\"fontsize-16\"},{\"offset\":9,\"length\":23,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":7,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":9,\"length\":23,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"drep\",\"text\":\"        Enter fullscreen\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":24,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":24,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":24,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":24,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":0,\"length\":24,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"faa10\",\"text\":\" \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":10,\"style\":\"CODE\"},{\"offset\":1,\"length\":9,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":9,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":9,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":9,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"9ier8\",\"text\":\" \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":1,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"3u5hi\",\"text\":\" \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":29,\"style\":\"CODE\"},{\"offset\":1,\"length\":11,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":13,\"length\":16,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":11,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":13,\"length\":16,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":11,\"style\":\"fontsize-16\"},{\"offset\":13,\"length\":16,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":11,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":13,\"length\":16,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"2sidh\",\"text\":\"        Any fullscreen content here\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":35,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":35,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":35,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":35,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":0,\"length\":35,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"f8lqd\",\"text\":\" \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":14,\"style\":\"CODE\"},{\"offset\":1,\"length\":13,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":13,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":13,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":13,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"b6ers\",\"text\":\" &lt;/div>\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":7,\"style\":\"CODE\"},{\"offset\":1,\"length\":6,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":6,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":6,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":6,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"6j6lm\",\"text\":\" );\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":3,\"style\":\"CODE\"},{\"offset\":1,\"length\":2,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":1,\"length\":2,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":1,\"length\":2,\"style\":\"fontsize-16\"},{\"offset\":1,\"length\":2,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"qki9\",\"text\":\"}\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":1,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":1,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":1,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":1,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":0,\"length\":1,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"cis9b\",\"text\":\" \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":1,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"a2qco\",\"text\":\"export default App; \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":6,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":7,\"length\":7,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":15,\"length\":4,\"style\":\"color-rgb(33,37,41)\"},{\"offset\":0,\"length\":6,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":7,\"length\":7,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":15,\"length\":4,\"style\":\"bgcolor-rgb(250,250,250)\"},{\"offset\":0,\"length\":6,\"style\":\"fontsize-16\"},{\"offset\":7,\"length\":7,\"style\":\"fontsize-16\"},{\"offset\":15,\"length\":4,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":6,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":7,\"length\":7,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":15,\"length\":4,\"style\":\"fontfamily-SFMono-Regular, Menlo, Monaco, Consolas, \\\"Liberation Mono\\\", \\\"Courier New\\\", monospace\"},{\"offset\":0,\"length\":20,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"13uh9\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"9aq4j\",\"text\":\"import React, {useCallback} from 'react';\\nimport { FullScreen, useFullScreenHandle } from \\\"react-full-screen\\\";\\n \\nfunction App() {\\n  const screen1 = useFullScreenHandle();\\n  const screen2 = useFullScreenHandle();\\n \\n  const reportChange = useCallback((state, handle) =&gt; {\\n    if (handle === screen1) {\\n      console.log('Screen 1 went to', state, handle);\\n    }\\n    if (handle === screen2) {\\n      console.log('Screen 2 went to', state, handle);\\n    }\\n  }, [screen1, screen2]);\\n \\n  return (\\n    &lt;div>\\n      \\n        First\\n      \\n \\n      \\n        Second\\n      \\n \\n      \\n        &lt;div>\\n          First\\n          \\n            Switch\\n          \\n          \\n            Exit\\n          \\n        &lt;/div>\\n      \\n \\n      \\n        &lt;div>\\n          Second\\n          \\n            Switch\\n          \\n          \\n            Exit\\n          \\n        &lt;/div>\\n      \\n    &lt;/div>\\n  );\\n}\",\"type\":\"code\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":1358,\"style\":\"CODE\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"left\"}},{\"key\":\"6hjro\",\"text\":\"interface FullScreenHandle {\\n  active: boolean;\\n  // Specifies if attached element is currently full screen.\\n \\n  enter: () =&gt; Promise;\\n  // Requests this element to go full screen.\\n \\n  exit: () =&gt; Promise;\\n  // Requests this element to exit full screen.\\n \\n  node: React.MutableRefObject;\\n  // The attached DOM node\\n}\\ninterface FullScreenProps {\\n  handle: FullScreenHandle;\\n  // Handle that helps operate the full screen state.\\n \\n  onChange?: (state: boolean, handle: FullScreenHandle) =&gt; void;\\n  // Optional callback that gets called when this screen changes state.\\n  \\n  className?: string;\\n  // Optional prop allowing you to apply a custom class name to the FullScreen container\\n}\",\"type\":\"code\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"sean\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{\"0\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"url\":\"https://github.com/rafrex/fscreen\",\"title\":\"fscreen\",\"targetOption\":\"\",\"_map\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"url\":\"https://github.com/rafrex/fscreen\",\"title\":\"fscreen\",\"targetOption\":\"\"}}}}}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "63821987b953459ae23e6865"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669625577383"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669625577383"
+      }
+    },
+    "slug": "difference-between-state-and-props"
+  },
+  {
+    "_id": {
+      "$oid": "638667564c3a2166a20d0219"
+    },
+    "title": "testing",
+    "content": "{\"blocks\":[{\"key\":\"2qt78\",\"text\":\"console.log(\\\"The Map Enteries are: \\\");   \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":41,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":41,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":41,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":41,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":41,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":41,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"epi9\",\"text\":\"//Iterate over map entries  \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":28,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":28,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":28,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":28,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":28,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":28,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"k5ca\",\"text\":\"for (let entry of ageMapping.entries()) {  \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":43,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":43,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":43,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":43,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":43,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":43,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"ebpln\",\"text\":\"    console.log(entry[0], entry[1]);   \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":39,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":39,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":39,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":39,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":39,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":39,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"70qkp\",\"text\":\"}   \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":3,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":3,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":3,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":3,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":3,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":3,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}}],\"entityMap\":{}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "638523cd9716f2d4efa5043b"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669752662275"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669752662275"
+      }
+    },
+    "slug": "testing"
+  },
+  {
+    "_id": {
+      "$oid": "638667a64c3a2166a20d023f"
+    },
+    "title": "testing",
+    "content": "{\"blocks\":[{\"key\":\"3tvgg\",\"text\":\"console.log(\\\"The Map Enteries are: \\\");   \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":41,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":41,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":41,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":41,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":41,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":41,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"b179q\",\"text\":\"//Iterate over map entries  \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":28,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":28,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":28,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":28,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":28,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":28,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"65iga\",\"text\":\"for (let entry of ageMapping.entries()) {  \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":43,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":43,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":43,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":43,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":43,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":43,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"2kpqp\",\"text\":\"    console.log(entry[0], entry[1]);   \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":39,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":39,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":39,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":39,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":39,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":39,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"dfhgh\",\"text\":\"}   \",\"type\":\"ordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":3,\"style\":\"color-rgb(51,51,51)\"},{\"offset\":0,\"length\":3,\"style\":\"bgcolor-rgba(214,189,189,0.3)\"},{\"offset\":0,\"length\":3,\"style\":\"fontsize-16\"},{\"offset\":0,\"length\":3,\"style\":\"fontfamily-inter-regular, system-ui, -apple-system, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Helvetica, Arial, sans-serif\"},{\"offset\":0,\"length\":3,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":3,\"style\":\"bgcolor-inherit\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}}],\"entityMap\":{}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "6381f56eb953459ae23e6724"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669752742620"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669752742620"
+      }
+    },
+    "slug": "testing"
+  },
+  {
+    "_id": {
+      "$oid": "638670754c3a2166a20d02d6"
+    },
+    "title": "testing with draft-js-export-html npm package",
+    "content": "{\"blocks\":[{\"key\":\"dulg\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"epiq8\",\"text\":\"Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":90,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":90,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":90,\"style\":\"fontsize-medium\"},{\"offset\":0,\"length\":90,\"style\":\"fontfamily-Inter, sans-serif\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"cdf3g\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}},{\"key\":\"bqagt\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8kfhl\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"fe1tp\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"margin-left\":\"1rem\"}},{\"key\":\"4mdcq\",\"text\":\"Hint\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":4,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":4,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":4,\"style\":\"fontsize-medium\"},{\"offset\":0,\"length\":4,\"style\":\"fontfamily-Inter, sans-serif\"},{\"offset\":0,\"length\":4,\"style\":\"color-rgb(556581/var(--tw-text-opacity))\"},{\"offset\":0,\"length\":4,\"style\":\"bgcolor-rgb(249250251/var(--tw-bg-opacity))\"},{\"offset\":0,\"length\":4,\"style\":\"fontsize-1.25rem\"},{\"offset\":0,\"length\":4,\"style\":\"fontfamily-Lexend, sans-serif\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"3a6el\",\"text\":\"P - In the above representation, we have defined a user-defined structure named a node containing two members, the first one is data of integer type, and the other one is the pointer (next) of the node type. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":207,\"style\":\"color-rgb(0,0,0)\"},{\"offset\":0,\"length\":207,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":207,\"style\":\"fontsize-medium\"},{\"offset\":0,\"length\":207,\"style\":\"fontfamily-Inter, sans-serif\"},{\"offset\":0,\"length\":207,\"style\":\"color-rgb(556581/var(--tw-text-opacity))\"},{\"offset\":0,\"length\":207,\"style\":\"bgcolor-rgb(249250251/var(--tw-bg-opacity))\"},{\"offset\":0,\"length\":207,\"style\":\"fontsize-1rem\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}}],\"entityMap\":{}}",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "638523cd9716f2d4efa5043b"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669754997240"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669754997240"
+      }
+    },
+    "slug": "testing-with-draft-js-export-html-npm-package"
+  },
+  {
+    "_id": {
+      "$oid": "6386713e4c3a2166a20d0308"
+    },
+    "title": "testing 4",
+    "content": "&lt;p>&lt;br>&lt;/p>\n&lt;p>getDraftContent()&nbsp;&lt;/p>\n&lt;p>getDraftContent()&nbsp;&lt;/p>",
+    "active": false,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "638523cd9716f2d4efa5043b"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669755198322"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669755198322"
+      }
+    },
+    "slug": "testing-4"
+  },
+  {
+    "_id": {
+      "$oid": "6388a0ed237dcde84e97e82c"
+    },
+    "title": "State and Props in React",
+    "content": "# State\nThe state is an updatable structure that is used to contain data or information about the component and can change over time. \nThe change in state can happen as a response to user action or system event. It is the heart of the react component which determines \nthe behavior of the component and how it will render. A state must be kept as simple as possible. It represents the component's local state or information. It can only be accessed or modified inside the component or by the component directly.\n\n# Props\nProps are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It allows passing data from one component to other components. It is similar to function arguments and can be passed to the component the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component.\n\n# Difference between State and Props\n\n```js\nCopyright by TheNinzaWorld.in\n```",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "6385238b9716f2d4efa503f1"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669898477360"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1669914689860"
+      }
+    },
+    "slug": "state-and-props-in-react"
+  },
+  {
+    "_id": {
+      "$oid": "6388e791237dcde84e97ea4f"
+    },
+    "title": "The Best Guide to Advanced Aspects",
+    "content": "# Advanced JavaScript Tutorial: The Best Guide to Advanced Aspects\n\n### The rise of the web has taken JavaScript places it was never conceived to be. It has become one of the most important languages in today’s world. In our previous JavaScript Tutorial, we discussed all the basics and fundamentals of the language. In this Advanced JavaScript Tutorial, we will learn about some of the advanced aspects of the programming language in the following sequence:\n\n- [Overview of JavaScript](https://www.edureka.co/blog/advanced-javascript-tutorial/#overview)\n- [Advanced Working with Functions](https://www.edureka.co/blog/advanced-javascript-tutorial/#functions)\n- [JavaScript Namespaces](https://www.edureka.co/blog/advanced-javascript-tutorial/#namespace)\n- [Prototypes](https://www.edureka.co/blog/advanced-javascript-tutorial/#prototypes)\n- [Error Handling](https://www.edureka.co/blog/advanced-javascript-tutorial/#error)\n- [Modules in JavaScript](https://www.edureka.co/blog/advanced-javascript-tutorial/#module)\n- [Chaining JavaScript Methods](https://www.edureka.co/blog/advanced-javascript-tutorial/#chaining)\n\n### Overview of JavaScript\nJavaScript is a high-level, interpreted, programming language used to make web pages more interactive. It is a very powerful client-side scripting language that makes your webpage more lively and interactive.\n\n![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/web-development-406x300.png)\n\nIt is a programming language that helps you to implement a complex and beautiful design on web pages. If you want your web page to look alive and do a lot more than just gawk at you, JavaScript is a must.\n\n### Features of JavaScript:\n\n![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/05/features-of-javascript-768x362.png)\n\n- It is a Scripting Language and has nothing to do with Java. Initially, It was named Mocha, then changed to LiveScript and finally it was named JavaScript.\n- JavaScript is an object-based programming language that supports polymorphism, encapsulation, and inheritance as well.\n- You can run JavaScript not only in the browser but also on the server and any device which has a JavaScript Engine.\n\n#####   Some of the Basics and Fundamentals discussed in the previous JavaScript Tutorial are:\n\n- Variables\n- Constants\n- Data Types\n- Objects\n- Arrays\n- Functions\n- Conditional Statements\n- Loops\n- Switch case\n\n###### In this advanced JavaScript Tutorial, we will get into the depth of advanced aspects of JavaScript.\n\n### Recursion\n\nRecursion is a programming pattern that helps in situations where a task can be naturally split into several tasks of the same kind, but simpler. Or when a task can be simplified into an easy action and a simpler variant of the same task.\n\n![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/12/recursion-343x300.png)\n\nIn the process of solving a task, a function can call many other functions. A partial case of this is when a function calls itself. Thus, it is known as recursion.\n\n#### Example:\n\n`function pow(x, n) {\nif (n == 1) {\nreturn x;\n} else {\nreturn x * pow(x, n - 1);\n}\n}\n \nalert( pow(2, 4) ); // 16`\n\n```js\nfunction pow(x, n) {\nif (n == 1) {\nreturn x;\n} else {\nreturn x * pow(x, n - 1);\n}\n}\n \nalert( pow(2, 4) ); // 16\n```\nCopyright [TheNinzaWorld](https://theninzaworld.in/)\n\n\n  | Name | Email |\n  | --------- | --------- |\n  |Priya Baby   |  priya.yourbaby@gmaill.com   |\n  | Cell 2   | Cell 2   |\n\n\n```jsx\nimport React, { useState, useRef, useEffect } from \"react\";\nimport ReactDOM from \"react-dom\";\nimport MDEditor from \"@uiw/react-md-editor\";\nimport mermaid from \"mermaid\";\n\nconst mdMermaid = `The following are some examples of the diagrams, charts and graphs that can be made using Mermaid and the Markdown-inspired text specific to it. \n\n\\`\\`\\`mermaid\ngraph TD\nA[Hard] -->|Text| B(Round)\nB --> C{Decision}\nC -->|One| D[Result 1]\nC -->|Two| E[Result 2]\n\\`\\`\\`\n\n\\`\\`\\`mermaid\nsequenceDiagram\nAlice->>John: Hello John, how are you?\nloop Healthcheck\n    John->>John: Fight against hypochondria\nend\nNote right of John: Rational thoughts!\nJohn-->>Alice: Great!\nJohn->>Bob: How about you?\nBob-->>John: Jolly good!\n\\`\\`\\`\n`;\n\nconst randomid = () => parseInt(String(Math.random() * 1e15), 10).toString(36);\nconst Code = ({ inline, children = [], className, ...props }) => {\n  const demoid = useRef(`dome${randomid()}`);\n  const code = getCode(children);\n  const demo = useRef(null);\n  useEffect(() => {\n    if (demo.current) {\n      try {\n        const str = mermaid.render(demoid.current, code, () => null, demo.current);\n        // @ts-ignore\n        demo.current.innerHTML = str;\n      } catch (error) {\n        // @ts-ignore\n        demo.current.innerHTML = error;\n      }\n    }\n  }, [code, demo]);\n\n  if (\n    typeof code === \"string\" && typeof className === \"string\" &&\n    /^language-mermaid/.test(className.toLocaleLowerCase())\n  ) {\n    return (\n      &lt;code ref={demo}>\n        &lt;code id={demoid.current} style={{ display: \"none\" }} />\n      &lt;/code>\n    );\n  }\n  return &lt;code className={String(className)}>{children}&lt;/code>;\n};\n\nconst getCode = (arr = []) => arr.map((dt) => {\n  if (typeof dt === \"string\") {\n    return dt;\n  }\n  if (dt.props && dt.props.children) {\n    return getCode(dt.props.children);\n  }\n  return false;\n}).filter(Boolean).join(\"\");\n\nexport default function App() {\n  const [value, setValue] = useState('**Hello world!!!**');\n  console.log('value::', value)\n  return (\n    <div className=\"container\">\n      <MDEditor\n        className=\"gooooooooo\"\n        onChange={(newValue = \"\") => setValue(newValue)}\n        value={value}\n        commands={[\n          textToImage,\n          commands.divider\n        ]}\n      />\n    </div>\n  );\n}\n```",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "636a55213c329c4c85bbf369"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1669916561447"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1670323140022"
+      }
+    },
+    "slug": "the-best-guide-to-advanced-aspects"
+  },
+  {
+    "_id": {
+      "$oid": "638f04c8b47f449296e23cdc"
+    },
+    "title": "testing markdown",
+    "content": "```jsx\nimport React, { useState, useRef, useEffect } from \"react\";\nimport ReactDOM from \"react-dom\";\nimport MDEditor from \"@uiw/react-md-editor\";\nimport mermaid from \"mermaid\";\n\nconst mdMermaid = `The following are some examples of the diagrams, charts and graphs that can be made using Mermaid and the Markdown-inspired text specific to it. \n\n\\`\\`\\`mermaid\ngraph TD\nA[Hard] -->|Text| B(Round)\nB --> C{Decision}\nC -->|One| D[Result 1]\nC -->|Two| E[Result 2]\n\\`\\`\\`\n\n\\`\\`\\`mermaid\nsequenceDiagram\nAlice->>John: Hello John, how are you?\nloop Healthcheck\n    John->>John: Fight against hypochondria\nend\nNote right of John: Rational thoughts!\nJohn-->>Alice: Great!\nJohn->>Bob: How about you?\nBob-->>John: Jolly good!\n\\`\\`\\`\n`;\n\nconst randomid = () => parseInt(String(Math.random() * 1e15), 10).toString(36);\nconst Code = ({ inline, children = [], className, ...props }) => {\n  const demoid = useRef(`dome${randomid()}`);\n  const code = getCode(children);\n  const demo = useRef(null);\n  useEffect(() => {\n    if (demo.current) {\n      try {\n        const str = mermaid.render(demoid.current, code, () => null, demo.current);\n        // @ts-ignore\n        demo.current.innerHTML = str;\n      } catch (error) {\n        // @ts-ignore\n        demo.current.innerHTML = error;\n      }\n    }\n  }, [code, demo]);\n\n  if (\n    typeof code === \"string\" && typeof className === \"string\" &&\n    /^language-mermaid/.test(className.toLocaleLowerCase())\n  ) {\n    return (\n      <code ref={demo}>\n        <code id={demoid.current} style={{ display: \"none\" }} />\n      </code>\n    );\n  }\n  return <code className={String(className)}>{children}</code>;\n};\n\nconst getCode = (arr = []) => arr.map((dt) => {\n  if (typeof dt === \"string\") {\n    return dt;\n  }\n  if (dt.props && dt.props.children) {\n    return getCode(dt.props.children);\n  }\n  return false;\n}).filter(Boolean).join(\"\");\n\nexport default function App() {\n  const [value, setValue] = useState(mdMermaid);\n  return (\n    <MDEditor\n      onChange={(newValue = \"\") => setValue(newValue)}\n      textareaProps={{\n        placeholder: \"Please enter Markdown text\"\n      }}\n      height={500}\n      value={value}\n      previewOptions={{\n        components: {\n          code: Code\n        }\n      }}\n    />\n  );\n}\n```",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "637e5cfef21d7280fb15cbd9"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1670317256602"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1670322316567"
+      }
+    },
+    "slug": "testing-markdown"
+  },
+  {
+    "_id": {
+      "$oid": "638f628c79ce4325b30f3df7"
+    },
+    "title": "Redux intro testing",
+    "content": "The following are some examples of the diagrams,\n```mermaid\ngraph TD\nA[Hard] -->|Text| B(Round)\nB --> C{Decision}\nC -->|One| D[Result 1]\nC -->|Two| E[Result 2]\n```\n```mermaid\nsequenceDiagram\nAlice->>John: Hello John, how are you?\nloop Healthcheck\n John->>John: Fight against hypochondria\nend\nNote right of John: Rational thoughts!\nJohn-->>Alice: Great!\nJohn->>Bob: How about you?\nBob-->>John: Jolly good!\n```\nThis is to display the `$$c = \\pm\\sqrt{a^2 + b^2}$$` in one line\n```KaTeX\nc = \\pm\\sqrt{a^2 + b^2}\n```\n\n```jsx\nimport React from \"react\";\nimport ReactDOM from \"react-dom\";\nimport MDEditor from '@uiw/react-md-editor';\nimport { getCodeString } from 'rehype-rewrite';\nimport katex from 'katex';\nimport 'katex/dist/katex.css';\n```\n```mermaid\n graph TD\nA[Hard] -->|Text| B(Round)\nB --> C{Decision}\nC -->|One| D[Result 1]\nC -->|Two| E[Result 2]\n```\n\n  | Header 1 | Header 2 |\n  | --------- | --------- |\n  | Cell 1   | Cell 1   |\n  | Cell 2   | Cell 2   |",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "6381f56eb953459ae23e6724"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1670341261008"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1670341926547"
+      }
+    },
+    "slug": "redux-intro-testing"
+  },
+  {
+    "_id": {
+      "$oid": "6390bd6eb55991e18b6c1c16"
+    },
+    "title": "Testing complete mdx",
+    "content": "### Unordered List\n\n- Item 1\n- Item 2\n\n### Ordered List\n\n1. Item 1\n2. Item 2\n\n### Checked List\n\n- [X] Checked Item 1\n- [X] Checked Item 2\n- [ ] Unchecked Item 3\n\n### Bold Text\n\n**I am bold text**\n\n### JSX \n\n```jsx\nimport React from \"react\";\nimport ReactDOM from \"react-dom\";\nimport MDEditor from '@uiw/react-md-editor';\nimport { getCodeString } from 'rehype-rewrite';\nimport katex from 'katex';\nimport 'katex/dist/katex.css';\n```\n### Normal Code\n`npm install katex`\n\n### Mathematics\n\n```KaTeX\n c = \\pm\\sqrt{a^2 + b^2}\n```\n### Diagram\n\n```mermaid\n graph TD\nA[Hard] -->|Text| B(Round)\nB --> C{Decision}\nC -->|One| D[Result 1]\nC -->|Two| E[Result 2]\n```\n### Table\n\n  | Name| Email |\n  | --------- | --------- |\n  | Ninza | ninza.a@gmail.com |\n  | puja | puja.p@hotmail.com   |\n\n### Divider / HR\n----------\n\n### Quote\n> Welcome to TheNinzaWorld.in\n\n----------\n\nCopyright @ TheNinza.world.in",
+    "active": true,
+    "deleted": false,
+    "courseOutline": {
+      "$oid": "638523e79716f2d4efa50450"
+    },
+    "user": {
+      "$oid": "636a51d0373295815e7bae90"
+    },
+
+    "created_at": {
+      "$date": {
+        "$numberLong": "1670430062853"
+      }
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1670430071813"
+      }
+    },
+    "slug": "testing-complete-mdx"
+  }
+]

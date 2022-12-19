@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "name": "Python",
+  "description": "Python is among the latest and most popular object-oriented, multifunctional programming languages.",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "slug": "python"
+},{
+  "_id": {
+    "$oid": "636a556476997c21836e7528"
+  },
+  "name": "R",
+  "description": "R programming plays a significant role in data science and data analytics. R allows you to work with complex data, develop packages, and create your customized data visualizations",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "slug": "r"
+},{
+  "_id": {
+    "$oid": "636a556987138ec2fadc2203"
+  },
+  "name": "SAS",
+  "description": "SAS was earlier known as the Statistical Analysis System. Created by SAS Institute, this software suite is for processes such as advanced analytics, business intelligence, multivariate analysis, data management, predictive analytics, criminal investigation, and more",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "slug": "sas"
+},{
+  "_id": {
+    "$oid": "636a5570128b7f4ae752d8e9"
+  },
+  "name": "Java",
+  "description": "Java is among the most secure and powerful languages in the world. There are millions of apps across cell phones, smartphones, etc., that run on this platform",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "slug": "java"
+},{
+  "_id": {
+    "$oid": "636a557538ea948a12f5a22b"
+  },
+  "name": "JavaScript",
+  "description": "If you want to work in the field of web development, irrespective of the specialization, you need to begin by learning JavaScript and gaining working experience in it.",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669916617789"
+    }
+  },
+  "slug": "javascript"
+},{
+  "_id": {
+    "$oid": "636a557bb2f6580b4057d6e5"
+  },
+  "name": "AngularJS",
+  "description": "Angular 6 is the latest version of AngularJS. Learning Angular 6 will help you enhance your skills and develop interactive web applications",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "slug": "angularjs"
+},{
+  "_id": {
+    "$oid": "636a5581585f92351595a9a5"
+  },
+  "name": "C",
+  "description": "C programming is among the most used computer languages.",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "slug": "c"
+},{
+  "_id": {
+    "$oid": "636a5585d3ef19e6f95f0f2d"
+  },
+  "name": "Linux",
+  "description": "Linux is an open-source operating system kernel, which is the predecessor of UNIX.",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636187"
+    }
+  },
+  "slug": "linux"
+},{
+  "_id": {
+    "$oid": "636a558bbe30892c270e4253"
+  },
+  "name": "Node.js",
+  "description": "Node.js is the perfect way to go about it. By gaining expert knowledge in software such as Mocha, Express, and MongoDB.",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "slug": "node.js"
+},{
+  "_id": {
+    "$oid": "636a5591edc4416fed1499a0"
+  },
+  "name": "C++",
+  "description": "R programming plays a significant role in data science and data analytics. R allows you to work with complex data, develop packages, and create your customized data visualizations",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649932204"
+    }
+  },
+  "slug": "c++"
+},{
+  "_id": {
+    "$oid": "636a5596c50bb6edca38cc38"
+  },
+  "name": "React",
+  "description": "React is used to create interactive applications for various platforms such as mobile, and web development",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649930093"
+    }
+  },
+  "slug": "react"
+},{
+  "_id": {
+    "$oid": "636a559d029a966397c1e482"
+  },
+  "name": "Redux",
+  "description": "Redux is basically used to maintain the state of an application. Because of the ability of the state management of the application, it is useful in optimising the performance of the application.",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649928338"
+    }
+  },
+  "slug": "redux"
+},{
+  "_id": {
+    "$oid": "636a55a2c6e3b513c9434fdc"
+  },
+  "name": "Android N Developer",
+  "description": "The developers build applications for the Android platforms.",
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649926235"
+    }
+  },
+  "slug": "android-n-developer"
+},{
+  "_id": {
+    "$oid": "636a55a7b67a71721e487d67"
+  },
+  "name": "iOS 11 and Swift Developer",
+  "description": "The iOs developers build robust models for the applications which are supposed to be run on the Apple systems",
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649924401"
+    }
+  },
+  "slug": "ios-11-and-swift-developer"
+},{
+  "_id": {
+    "$oid": "636a55ac3474643eb870d43c"
+  },
+  "name": "Docker",
+  "description": "Docker is nothing but online containerisation for the platform",
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649922504"
+    }
+  },
+  "slug": "docker"
+},{
+  "_id": {
+    "$oid": "636a55b2204e7d5dc24b16ad"
+  },
+  "name": "Cyber Security",
+  "description": "Cyber security keeps the data safe on internet-connected devices from any unforeseeable damages or theft",
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636188"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649920707"
+    }
+  },
+  "slug": "cyber-security"
+},{
+  "_id": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "name": "React Js",
+  "description": "",
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225705889"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649918538"
+    }
+  },
+  "slug": "react-js"
+}]

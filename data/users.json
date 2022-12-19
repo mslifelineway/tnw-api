@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "photo": "profile.jpg",
+  "password": "$2a$12$6dqD62aHh.2eS8Ader84oOuhc.DQ.35Q/wOjIv2KSZZ5ehP5G7qe2",
+  "role": "admin",
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636120"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636120"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "name": "Ninza",
+  "email": "ninza.a@gmail.com",
+  "photo": "profile.jpg",
+  "password": "$2a$12$6dqD62aHh.2eS8Ader84oOuhc.DQ.35Q/wOjIv2KSZZ5ehP5G7qe2",
+  "role": "admin",
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636a5157dbf2040cb0909221"
+  },
+  "name": "Nancy",
+  "email": "nancy@gmail.com",
+  "photo": "profile.jpg",
+  "password": "$2a$12$6dqD62aHh.2eS8Ader84oOuhc.DQ.35Q/wOjIv2KSZZ5ehP5G7qe2",
+  "role": "admin",
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636a51c6f5eb050d015f9f99"
+  },
+  "name": "John",
+  "email": "john.a@gmail.com",
+  "photo": "profile.jpg",
+  "password": "$2a$12$6dqD62aHh.2eS8Ader84oOuhc.DQ.35Q/wOjIv2KSZZ5ehP5G7qe2",
+  "role": "admin",
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636a5208f6d7bc6dadb47652"
+  },
+  "name": "Priti",
+  "email": "priti@gmail.com",
+  "photo": "profile.jpg",
+  "password": "$2a$12$6dqD62aHh.2eS8Ader84oOuhc.DQ.35Q/wOjIv2KSZZ5ehP5G7qe2",
+  "role": "admin",
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636a52477b825e72e92b3651"
+  },
+  "name": "ATM",
+  "email": "amtma.atm@gmail.com",
+  "photo": "profile.jpg",
+  "password": "$2a$12$6dqD62aHh.2eS8Ader84oOuhc.DQ.35Q/wOjIv2KSZZ5ehP5G7qe2",
+  "role": "admin",
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636a524e7f7ab5986c1a407d"
+  },
+  "name": "Lucy",
+  "email": "lucy@gmail.com",
+  "photo": "profile.jpg",
+  "password": "$2a$12$6dqD62aHh.2eS8Ader84oOuhc.DQ.35Q/wOjIv2KSZZ5ehP5G7qe2",
+  "role": "admin",
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636a52536572478851640c70"
+  },
+  "name": "Daniel",
+  "email": "daniel.d@gmail.com",
+  "photo": "profile.jpg",
+  "password": "$2a$12$6dqD62aHh.2eS8Ader84oOuhc.DQ.35Q/wOjIv2KSZZ5ehP5G7qe2",
+  "role": "admin",
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636121"
+    }
+  }
+}]

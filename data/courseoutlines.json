@@ -1,0 +1,772 @@
+[{
+  "_id": {
+    "$oid": "636a54e8db2c10108729b6d3"
+  },
+  "name": "Intrduction",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "intrduction"
+},{
+  "_id": {
+    "$oid": "636a54f15744c08f9dc496be"
+  },
+  "name": "Basics",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "basics"
+},{
+  "_id": {
+    "$oid": "636a54f7ccbf74026e140e4c"
+  },
+  "name": "Grid",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "grid"
+},{
+  "_id": {
+    "$oid": "637b38ad82ded6be27847dbf"
+  },
+  "name": "Grid child 1",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "parent": {
+    "$oid": "636a54f7ccbf74026e140e4c"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "grid-child-1"
+},{
+  "_id": {
+    "$oid": "637b38b804b63ce0134e6718"
+  },
+  "name": "Grid child 2",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "parent": {
+    "$oid": "636a54f7ccbf74026e140e4c"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "grid-child-2"
+},{
+  "_id": {
+    "$oid": "637b3952c265c703b3a90453"
+  },
+  "name": "Grid child 2 - child 1",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "parent": {
+    "$oid": "637b38b804b63ce0134e6718"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "grid-child-2-child-1"
+},{
+  "_id": {
+    "$oid": "637b39573097c8ba477e5b37"
+  },
+  "name": "Grid child 2 - child 2",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "parent": {
+    "$oid": "637b38b804b63ce0134e6718"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "grid-child-2-child-2"
+},{
+  "_id": {
+    "$oid": "637b38bfbff9d1947f3ed39d"
+  },
+  "name": "Grid child 3",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "parent": {
+    "$oid": "636a54f7ccbf74026e140e4c"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "grid-child-3"
+},{
+  "_id": {
+    "$oid": "636a54fc413952d8b4ee53ac"
+  },
+  "name": "Flex Box",
+  "course": {
+    "$oid": "636a555f8e6b2091dbe6f7f2"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "parent": {
+    "$oid": "635b4b1010eb141550a6bdb0"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "flex-box"
+},{
+  "_id": {
+    "$oid": "636a55024378deb0dc0ce61b"
+  },
+  "name": "Examples",
+  "course": {
+    "$oid": "635ac89ffde1ba4ea0c45782"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "examples"
+},{
+  "_id": {
+    "$oid": "636a5509d76e666ebd0ca5f6"
+  },
+  "name": "Psuedo Code",
+  "course": {
+    "$oid": "635ac89ffde1ba4ea0c45782"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "parent": {
+    "$oid": "636a54e8db2c10108729b6d3"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "psuedo-code"
+},{
+  "_id": {
+    "$oid": "636a550fdea6b363b9b0f47e"
+  },
+  "name": "Code Implementation",
+  "course": {
+    "$oid": "635ac89ffde1ba4ea0c45782"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "parent": {
+    "$oid": "636a54e8db2c10108729b6d3"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "code-implementation"
+},{
+  "_id": {
+    "$oid": "636a5517b02fe9c014213397"
+  },
+  "name": "Introduction",
+  "course": {
+    "$oid": "636a557538ea948a12f5a22b"
+  },
+  "user": {
+    "$oid": "635abe9c16c69f425b56bd35"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "introduction"
+},{
+  "_id": {
+    "$oid": "636a551df2bcbe63632a899c"
+  },
+  "name": "Basics",
+  "course": {
+    "$oid": "636a557538ea948a12f5a22b"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636214"
+    }
+  },
+  "slug": "basics"
+},{
+  "_id": {
+    "$oid": "636a55213c329c4c85bbf369"
+  },
+  "name": "Advanced",
+  "course": {
+    "$oid": "636a557538ea948a12f5a22b"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636215"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669916652630"
+    }
+  },
+  "slug": "advanced"
+},{
+  "_id": {
+    "$oid": "636a5527edfd83ee84b9ab7f"
+  },
+  "name": "Examples",
+  "course": {
+    "$oid": "636a557538ea948a12f5a22b"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": false,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636215"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669225636215"
+    }
+  },
+  "slug": "examples"
+},{
+  "_id": {
+    "$oid": "636a552c5a9f145bb585b526"
+  },
+  "name": "Code",
+  "course": {
+    "$oid": "636a557538ea948a12f5a22b"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225636215"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669667604717"
+    }
+  },
+  "slug": "code"
+},{
+  "_id": {
+    "$oid": "637e5cfef21d7280fb15cbd9"
+  },
+  "name": "Hooks",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225726968"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669667601914"
+    }
+  },
+  "slug": "hooks"
+},{
+  "_id": {
+    "$oid": "637e5d0ff21d7280fb15cbee"
+  },
+  "name": "useState",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "637e5cfef21d7280fb15cbd9"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225743346"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669667599178"
+    }
+  },
+  "slug": "usestate"
+},{
+  "_id": {
+    "$oid": "637e5d27f21d7280fb15cc03"
+  },
+  "name": "useState Introduction",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "637e5d27f21d7280fb15cc03"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225767010"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669667596460"
+    }
+  },
+  "slug": "usestate-introduction"
+},{
+  "_id": {
+    "$oid": "637e5d36f21d7280fb15cc15"
+  },
+  "name": "useEffect",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "637e5cfef21d7280fb15cbd9"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669225782706"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669667593977"
+    }
+  },
+  "slug": "useeffect"
+},{
+  "_id": {
+    "$oid": "6381f56eb953459ae23e6724"
+  },
+  "name": "Introduction",
+  "course": {
+    "$oid": "636a559d029a966397c1e482"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669461358773"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669667591060"
+    }
+  },
+  "slug": "introduction"
+},{
+  "_id": {
+    "$oid": "63821987b953459ae23e6865"
+  },
+  "name": "Definition of use state",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "637e5d0ff21d7280fb15cbee"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669470599120"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669667585134"
+    }
+  },
+  "slug": "definition"
+},{
+  "_id": {
+    "$oid": "6382271db5ce695181d97f56"
+  },
+  "name": "Psuedo code of useEffect",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "637e5d36f21d7280fb15cc15"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669474077471"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669649909303"
+    }
+  },
+  "slug": "example-of-useeffect"
+},{
+  "_id": {
+    "$oid": "6385238b9716f2d4efa503f1"
+  },
+  "name": "State",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669669771180"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669669918241"
+    }
+  },
+  "slug": "state"
+},{
+  "_id": {
+    "$oid": "638523cd9716f2d4efa5043b"
+  },
+  "name": "Props",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669669837069"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669713969922"
+    }
+  },
+  "slug": "props"
+},{
+  "_id": {
+    "$oid": "638523d79716f2d4efa50447"
+  },
+  "name": "State Intro",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "6385238b9716f2d4efa503f1"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669669847866"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669669912588"
+    }
+  },
+  "slug": "state-intro"
+},{
+  "_id": {
+    "$oid": "638523e79716f2d4efa50450"
+  },
+  "name": "Example of state",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "6385238b9716f2d4efa503f1"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669669863735"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669669908198"
+    }
+  },
+  "slug": "example-of-state"
+},{
+  "_id": {
+    "$oid": "638523fe9716f2d4efa5045f"
+  },
+  "name": "Psuedo code",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "638523e79716f2d4efa50450"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669669886484"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669669905734"
+    }
+  },
+  "slug": "psuedo-code"
+},{
+  "_id": {
+    "$oid": "638524099716f2d4efa50468"
+  },
+  "name": "code of state",
+  "course": {
+    "$oid": "637e5ce9f21d7280fb15cbae"
+  },
+  "user": {
+    "$oid": "636a51d0373295815e7bae90"
+  },
+  "active": true,
+  "deleted": false,
+  "parent": {
+    "$oid": "638523e79716f2d4efa50450"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1669669897078"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1669669903426"
+    }
+  },
+  "slug": "code-of-state"
+}]
